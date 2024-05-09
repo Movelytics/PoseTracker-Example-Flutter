@@ -1,4 +1,4 @@
-# pose_tracker_demo
+# PoseTracker example with Flutter
 
 A new Flutter project.
 
