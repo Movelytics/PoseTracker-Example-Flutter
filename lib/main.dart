@@ -50,7 +50,7 @@ class _PoseTrackerPageState extends State<PoseTrackerPage> {
   // API request your token provided on our dashboard on posetracker.com (It's free <3)
   final String API_KEY = "REPLACE_THIS_WITH_YOUR_posetracker.com_API_KEY";
   // Below is the main url to reach our API
-  final String POSETRACKER_API_URL = "https://posetracker.com/pose_tracker/tracking";
+  final String POSETRACKER_API_URL = "https://app.posetracker.com/pose_tracker/tracking";
   // Our API request the exercise you want to track and count
   final String exercise = "squat";
   // Our API request the difficulty of the exercise (by default it's set to normal)
